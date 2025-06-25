@@ -55,8 +55,8 @@ install.packages(c("kernlab", "ROCR", "knitr", "dplyr"))
 1. **Clone** the repo:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/arjunvijayanup/paper-break-predictor.git
+   cd paper-break-predictor
    ```
 
 2. **Render** the Quarto document:
